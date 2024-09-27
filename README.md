@@ -1,1 +1,2 @@
 # Homework4
+This assignment was to help us understand pandas by having us deal with two different dataframes. I did this by merging the two datasets after getting rid of the first column. After making them one big dataset I split them into 3 datasets for each species to get all the measurements. After looking through all the datasets, I then found the least and most similar species using the numbers.
